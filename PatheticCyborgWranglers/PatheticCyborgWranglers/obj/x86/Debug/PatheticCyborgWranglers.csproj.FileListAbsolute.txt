@@ -1,0 +1,58 @@
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\ship.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\space.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\EnemyBullet.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\playerbullet.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\enemyship.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\TitlePage.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\EndingPage.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\georgia.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\bgMusicCC.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\theme.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\end.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\explode.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\playershoot.xnb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\bgMusicCC.wma
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\theme.wma
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\end.wma
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\PatheticCyborgWranglers.exe
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\PatheticCyborgWranglers.pdb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\PatheticCyborgWranglers.exe
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\PatheticCyborgWranglers.pdb
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\PatheticCyborgWranglers.exe.manifest
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\PatheticCyborgWranglers.application
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\PatheticCyborgWranglers.exe.manifest
+C:\Users\Raven\Desktop\Pathetic Cyborg Wranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\PatheticCyborgWranglers.application
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\ship.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\space.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\EnemyBullet.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\playerbullet.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\enemyship.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\TitlePage.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\EndingPage.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\georgia.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\bgMusicCC.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\theme.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\end.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\explode.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\playershoot.xnb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\bgMusicCC.wma
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\theme.wma
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\Content\end.wma
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\PatheticCyborgWranglers.exe.manifest
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\PatheticCyborgWranglers.application
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\PatheticCyborgWranglers.exe
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\bin\x86\Debug\PatheticCyborgWranglers.pdb
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\PatheticCyborgWranglers.exe.manifest
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\PatheticCyborgWranglers.application
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\PatheticCyborgWranglers.exe
+C:\Users\Raven\Desktop\PatheticCyborgWranglers\PatheticCyborgWranglers\PatheticCyborgWranglers\obj\x86\Debug\PatheticCyborgWranglers.pdb
